@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867364721403",
+    "firebase_url": "https://authentication-7e543-default-rtdb.firebaseio.com",
+    "project_id": "authentication-7e543",
+    "storage_bucket": "authentication-7e543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867364721403:android:e3c85d906bc942f28ed65e",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867364721403-hm6ajtt446dafjk1vk6nd3sg3bcrdsc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADpbwA1pXQYnjgRSYHMvTZ4frz47se2wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867364721403-hm6ajtt446dafjk1vk6nd3sg3bcrdsc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
